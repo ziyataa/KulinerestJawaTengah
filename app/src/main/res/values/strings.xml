@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Kulinerest Jawa Tengah</string>
+    <string-array name="kuliner_jawa">
+        <item>Gudeg</item>
+        <item>LontongCapGoMeh</item>
+        <item>KupatGlabed</item>
+        <item>Garang Asem</item>
+    </string-array>
+
+    <string-array name="isi_kuliner">
+        <item>gudeg adalah makanan khas Yogyakarta dan Jawa Tengah yang terbuat dari nangka muda yang dimasak dengan santan. Perlu waktu berjam-jam untuk membuat masakan ini. Warna coklat biasanya dihasilkan oleh daun jati yang dimasak bersamaan. Gudeg dimakan dengan nasi dan disajikan dengan kuah santan kental (areh), ayam kampung, telur, tahu dan sambal goreng krecek.
+
+Ada berbagai varian gudeg, antara lain:
+
+Gudeg kering, yaitu gudeg yang disajikan dengan areh kental, jauh lebih kental daripada santan pada masakan padang.
+Gudeg basah, yaitu gudeg yang disajikan dengan areh encer.
+Gudeg Solo, yaitu gudeg yang arehnya berwarna putih.</item>
+        <item>Sesuai namanya, kuliner Tegal ini cocok banget disantap saat perayaan Imlek. Tampilannya memang seperti lontong sayur pada umumnya. Baru setelah masuk ke dalam mulut, kamu akan menemukan rasa istimewa. Di dalamnya ada isian berupa telur hingga suwiran ayam. Lalu di mana kamu bisa menemukan hidangan khas ini? Mari langsung menuju ke Warung Ibu Wing di Jalan Jenderal Sudirman, Slawi. Satu porsinya hanya dihargai sekitar Rp15.000.</item>
+        <item>Kupat Glabed bisa banget membuat perutmu kenyang. Lidah juga sudah pasti puas sekali. Kamu bisa mencoba potongan ketupat yang disajikan bersama tempa dan disiram dengan kuah glabed. Semakin lezat apabila disantap dengan sate ayam atau kerang. Kalau kamu belinya di sekitaran bundaran patung obor Slawi harganya sekitar Rp5.000 sedangkan satenya sekitar Rp2.500.</item>
+        <item>Garang Asem merupakan makanan tradisional khas Jawa Tengah.[1] Garang asem adalah masakan olahan ayam yang dimasak menggunakan daun pisang dan didominasi oleh rasa asam dan pedas. Garang asem berasal dari Grobogan namun kini garang asem populer di Kudus, bahkan kini Garang Asem ada di beberapa kota di provinsi Jawa Tengah memiliki makanan tradisional ini. Antara lain Semarang, Demak, Kudus, Pati, dan Pekalongan.
+
+Garang asem biasa disajikan sebagai lauk pendamping nasi, ditambah dengan tusukan ayam asam manis, tempe goreng, dan perkedel.</item>
+    </string-array>
+</resources>
